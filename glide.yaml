@@ -1,0 +1,5 @@
+package: .
+import:
+- package: github.com/hoisie/redis
+- package: github.com/googollee/go-socket.io
+- package: github.com/googollee/go-engine.io

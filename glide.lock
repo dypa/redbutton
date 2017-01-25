@@ -1,0 +1,18 @@
+hash: e2ecef14b99750e7bbdcd5fdd8248b438097b946cf9069a3cb43900ea723b448
+updated: 2016-12-27T23:30:48.999757565+03:00
+imports:
+- name: github.com/googollee/go-engine.io
+  version: ca9ced27e02c880970ee7726f9814f8a9c55d777
+  subpackages:
+  - message
+  - parser
+  - polling
+  - transport
+  - websocket
+- name: github.com/googollee/go-socket.io
+  version: e9f0a9b7a61267e1476f9f0a0429337813c39edd
+- name: github.com/gorilla/websocket
+  version: 404e6b135d226cb21e3afea59a82c7b81fce18c8
+- name: github.com/hoisie/redis
+  version: b5c6e81454e0395c280f220d82a6854fd0fcf42e
+testImports: []
